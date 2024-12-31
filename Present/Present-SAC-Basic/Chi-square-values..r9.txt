@@ -1,9 +1,0 @@
- Bin 1: 573
- Bin 2: 509
- Bin 3: 547
- Bin 4: 517
- Bin 5: 480
- Bin 6: 486
- Bin 7: 527
- Bin 8: 457
-Chi-squared: 19.2774
